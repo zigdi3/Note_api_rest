@@ -2,7 +2,7 @@
 
 
   - CRUD Para Bloco de Notas 
-  - Interface swagger para testes de request e reposnse
+  - Interface swagger para testes de request e response
   - Facil adaptação para outros Bancos de Dados
 
 ### Instalação
@@ -21,7 +21,6 @@ Acesse pelo navegador:
 ```sh
 $ https://localhost:3000/swagger
 ```
-
 
 License
 ----
